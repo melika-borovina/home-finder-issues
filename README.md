@@ -68,7 +68,13 @@ Users can book a tour of a property with a real estate agent by selecting a conv
 
 ## Technical Requirements
 
-N/A
+HomeFinder is built using the following technologies:
+
+Backend: Java, Spring, PostgreSQL 
+Frontend: Angular 
+The app Frontend/Backend is hosted on AWS Amplify cloud server.
+
+
 
 ## Out of scope
 
