@@ -66,6 +66,18 @@ Users can view detailed information about a specific property, including its fea
 
 Users can book a tour of a property with a real estate agent by selecting a convenient date and time slot.
 
+### Admin Privleges
+
+Admin privileges refer to the elevated level of access granted to a user account, which enables them to perform certain tasks on a website or application that regular users cannot. In the context of a real estate website, granting admin privileges would allow a user to create, edit, and delete real estate listings from the page.
+
+With admin privileges, the user would have access to an administrative panel that would allow them to manage the content of the website. This panel would include options for creating new real estate listings, editing existing ones, and deleting listings that are no longer relevant. The admin user would be able to add photos, descriptions, and other details to the listings, making them more attractive to potential buyers or renters.
+
+The ability to create, edit, and delete real estate listings is crucial for a real estate website as it allows the website to stay up-to-date with the latest properties available on the market. With admin privileges, the user can ensure that the website is always presenting accurate and timely information to its users.
+
+Overall, granting admin privileges to a user on a real estate website provides them with the necessary tools to manage the content of the website and keep it updated with the latest property listings. This functionality enhances the user experience and ensures that the website remains a valuable resource for those looking to buy or rent real estate.
+
+
+
 ## Technical Requirements
 
 HomeFinder is built using the following technologies:
