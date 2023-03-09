@@ -56,7 +56,7 @@ User flow:
 
 ### Home page
 
-The home page displays a list of available real estate properties that users can browse. Users can filter properties based on location, price range, and other criteria.
+The home page of the real estate website should provide users with a comprehensive view of all real estate options available, including properties for sale and rent. Users should be able to easily navigate and filter through the options based on their preferences. The home page should display all available properties based on the user's search criteria. Each property should be displayed with a thumbnail image and when clicking the real estate the user can get further information on the listing.
 
 ### Display specific real estate
 
@@ -64,9 +64,9 @@ Users can view detailed information about a specific property, including its fea
 
 ### Book a tour
 
-Users can book a tour of a property with a real estate agent by selecting a convenient date and time slot.
+Users should be able to book a tour with an agent for a specific property by clicking a "Book a Tour" button on the real estate record. The website should allow users to choose a date and time for the tour and provide their contact information to the agent. The status of the tour is pending until the agent approves the date and time.
 
-### Admin Privleges
+### Admin Privileges
 
 Admin privileges refer to the elevated level of access granted to a user account, which enables them to perform certain tasks on a website or application that regular users cannot. In the context of a real estate website, granting admin privileges would allow a user to create, edit, and delete real estate listings from the page.
 
