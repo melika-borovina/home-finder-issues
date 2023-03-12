@@ -91,5 +91,5 @@ The app Frontend/Backend is hosted on AWS Amplify cloud server.
 ## Out of scope
 
 -   Nonresponsive UI design: Design is not responsive. It might not offer the best user-friendly experience on smaller resolutions.
--   Map of real estate: When we open specific real estate, we have a map that displays the location. For confidentiality reasons, it might only display the area of the house rather than specific address.
+-   No Map of real estate: When we open specific real estate, we should have a map that displays the location or the general area of the real estate for confidentiality reasons, however for now it will display the address of real estate. 
 -   Booking a tour with an agent will be limited to the agent sending an email to the interested user. Currently out of the scope of our project to have a notifications page, where the user would be notified that their request for a tour with an agent has been approved/denied.
