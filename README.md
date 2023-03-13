@@ -16,6 +16,7 @@ HomeFinder includes the following features:
 -   Delete real estate
 -   Display real estate
 -   Book a tour with an agent
+-   Save a real estate to access it easily
 
 ## User Interface
 
